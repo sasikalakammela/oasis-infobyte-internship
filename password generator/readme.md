@@ -17,7 +17,7 @@ A simple command-line based Random Password Generator developed in Python. This 
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/sasikalakammela/oasis-infobyte-internship/tree/main
 2. Navigate to the project folder:
    cd password-generator
 
