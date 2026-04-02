@@ -22,7 +22,7 @@ This project is ideal for beginners to practice Python fundamentals such as user
 ## Installation
 1. Clone the repository:
 ```id="clone123"
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/sasikalakammela/oasis-infobyte-internship/tree/main
 ```
 2. Navigate to the project folder:
 ```id="nav123"
