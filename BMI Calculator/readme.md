@@ -44,7 +44,6 @@ Example:
 * BMI = 22.22 (Normal weight)
 
 ## Project Structure
-
 ```id="struct123"
 bmi-calculator/
 │── bmi_cli.py
@@ -58,15 +57,12 @@ bmi-calculator/
 * Exception handling (try-except)
 
 ## Future Improvements
-
 * Add GUI interface using Tkinter
 * Store user data for tracking
 * Add unit conversion (cm to meters automatically)
 
 ## Author
-
 * Name: Kammela Sasikala
-* Role: Computer Science (AI & ML) Student
-
+  
 ## License
 This project is open-source and available under the MIT License.
