@@ -1,4 +1,4 @@
-# Random Password Generator (Beginner - Python)
+# Random Password Generator 
 
 ## Project Description
 A simple command-line based Random Password Generator developed in Python. This project allows users to generate secure passwords using customizable length and character options (letters and numbers). It is designed for beginners to practice core programming concepts such as user input handling, conditional logic, and random data generation.
