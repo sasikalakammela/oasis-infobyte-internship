@@ -20,7 +20,7 @@ Wikipedia
 smtplib
  
  **Installation**
-git clone https://github.com/your-username/voice-assistant.git
+git clone https://github.com/sasikalakammela/oasis-infobyte-internship/tree/main
 cd voice-assistant
 pip install speechrecognition pyttsx3 pyaudio wikipedia requests
 
