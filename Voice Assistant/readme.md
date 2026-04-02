@@ -27,5 +27,8 @@ pip install speechrecognition pyttsx3 pyaudio wikipedia requests
 **Usage**
 python assistant.py
 
+**Author**
+Kammela Sasikala
+
 **Conclusion**
 This project shows how voice recognition and automation can be used to build a simple and interactive assistant using Python.
