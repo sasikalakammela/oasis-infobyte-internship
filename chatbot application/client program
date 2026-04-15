@@ -1,0 +1,24 @@
+import socket
+import threading
+
+host = '127.0.0.1'
+port = 12345
+
+client = socket.socket()
+client.connect((host, port))
+
+def receive():
+    while True:
+        try:
+            message = client.recv(1024).decode()
+            print("\nServer:", message)
+        except:
+            break
+
+def send():
+    while True:
+        message = input("You: ")
+        client.send(message.encode())
+
+threading.Thread(target=receive).start()
+threading.Thread(target=send).start()
